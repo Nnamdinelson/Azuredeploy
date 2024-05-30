@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("myNotNetwebapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+960f8087869c845f2977faf897676047e37e1171")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77cca0f684ac29c04ace20188a8d6007b53a835c")]
 [assembly: System.Reflection.AssemblyProductAttribute("myNotNetwebapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("myNotNetwebapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
