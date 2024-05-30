@@ -28,3 +28,4 @@ c:\Users\PC\Desktop\DotNet-CI\myNotNetwebapp\obj\Debug\net8.0\refint\myNotNetweb
 c:\Users\PC\Desktop\DotNet-CI\myNotNetwebapp\obj\Debug\net8.0\myNotNetwebapp.pdb
 c:\Users\PC\Desktop\DotNet-CI\myNotNetwebapp\obj\Debug\net8.0\myNotNetwebapp.genruntimeconfig.cache
 c:\Users\PC\Desktop\DotNet-CI\myNotNetwebapp\obj\Debug\net8.0\ref\myNotNetwebapp.dll
+c:\Users\PC\Desktop\DotNet-CI\myNotNetwebapp\obj\Debug\net8.0\myNotNetwebapp.sourcelink.json
